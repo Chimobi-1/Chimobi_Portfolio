@@ -1,6 +1,6 @@
 # Captivating Data Analytics projects live here 
 
-## Project 1: Manipulation and Aggregation of Summer Olympic Games, Medal Tables 1896-2012 Overview
+### Project 1: Manipulation and Aggregation of Summer Olympic Games, Medal Tables 1896-2012 Overview
 ![](/images/Olympics2.jpg)
 
 The goal of this project is to check the your ability to work with, manipulate and aggregate data.
