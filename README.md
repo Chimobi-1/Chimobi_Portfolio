@@ -11,4 +11,4 @@ Your goal is to minimize the divergence between your aggregated Medal Tables and
 
 Calculate the total absolute divergence for the Editions 1996 and 1976 (the "Score")! The optimal Score is 0!
 
-![](https://github.com/Chimobi-1/Portfolio-repo/blob/master/images/Olympics.jpg)
+![](/images/Olympics.jpg)
