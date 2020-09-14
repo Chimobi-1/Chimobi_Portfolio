@@ -10,3 +10,5 @@ All you can use is a dataset with raw data containing over 31,000 medals (summer
 Your goal is to minimize the divergence between your aggregated Medal Tables and the official Medal Tables. Let´s assume that the official number of Gold Medals for the United States in the Edition 1996 is 44 and your code produces 46. This is an absolute divergence of 2.
 
 Calculate the total absolute divergence for the Editions 1996 and 1976 (the "Score")! The optimal Score is 0!
+
+![] (https://github.com/Chimobi-1/Portfolio-repo/blob/master/images/Olympics.jpg)
