@@ -1,5 +1,4 @@
-# Chimobi's Portfolio
-Captivating Data Analytics projects live here 
+#Captivating Data Analytics projects live here 
 
 
 ## Project 1: Summer Olympic Games, Medal Tables 1896-2012 Overview
