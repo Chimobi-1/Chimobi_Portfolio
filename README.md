@@ -2,7 +2,7 @@
 Captivating Data Analytics projects live here 
 
 
-# Summer Olympic Games, Medal Tables 1896-2012
+## Summer Olympic Games, Medal Tables 1896-2012 Overview
 The goal of this project is to check the your ability to work with, manipulate and aggregate data.
 It´s your first day in a Data Science advisory firm and your boss asks you to produce the official Summer Olympic Games Medal Tables for all Editions from 1896 to 2012.
 All you can use is a dataset with raw data containing over 31,000 medals (summer.csv) and the official Medal Tables for the Editions 1996 and 1976 from Wikipedia. (wik_1996.csv, wik_1976.csv). Use the two official Medal Tables as a reference to check whether your code produces the correct output!
