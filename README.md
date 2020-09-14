@@ -1,5 +1,4 @@
-#Captivating Data Analytics projects live here 
-
+# Captivating Data Analytics projects live here 
 
 ## Project 1: Summer Olympic Games, Medal Tables 1896-2012 Overview
 The goal of this project is to check the your ability to work with, manipulate and aggregate data.
