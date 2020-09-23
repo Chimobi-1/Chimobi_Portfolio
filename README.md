@@ -10,8 +10,7 @@ Here is a comparison between the initial summer table and the official medal tab
 
 ![](/images/comparetables.png)
 
-The goal was to minimize the divergence between the aggregated Medal Tables and the official Medal Tables by calculating  
-the total absolute divergence for the Editions 1996 and 1976 (the "Score")! The optimal Score is 0!  
+The goal was to minimize the divergence between the aggregated Medal Tables and the official Medal Tables by calculating the total absolute divergence for the Editions 1996 and 1976 (the "Score")! The optimal Score is 0!  
 Here is a comparision between the aggregated medal tables and the official medal table (year of comparision 1976)  
 
 ![](/images/comparetables2.png)
