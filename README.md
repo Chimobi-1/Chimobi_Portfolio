@@ -3,9 +3,10 @@
 ### Project 1: [Manipulation and Aggregation of Summer Olympic Games, Medal Tables 1896-2012 Overview](https://github.com/Chimobi-1/Manipulation-and-Aggregation-of-Summer-Olympic-Games-Medal-Tables-1896-2012-)
 ![](/images/Olympics2.jpg)
 
-• Minimized the divergence between the aggregated medal table created from the summer.csv  file and the official medal tables from wikipedia  
-• Manipulated and aggregated data  
-• Applied information from Sport expert to create an accurate aggregated table from the messy summer.csv file  
+• Applied information from Sport expert to create an accurate aggregated table from the messy summer.csv file
+• Manipulated and aggregated data using pandas and numpy
+• Minimized the divergence between the aggregated medal table created from the summer.csv  file and the official medal tables from wikipedia
+
 Here is a comparison between the initial summer table and the official medal table (year of comparision 1976) 
 
 ![](/images/comparetables.png)
